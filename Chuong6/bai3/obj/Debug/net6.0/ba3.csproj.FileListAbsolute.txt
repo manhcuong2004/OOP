@@ -1,0 +1,15 @@
+F:\LTHDT\Chuong6\bai3\bin\Debug\net6.0\ba3.exe
+F:\LTHDT\Chuong6\bai3\bin\Debug\net6.0\ba3.deps.json
+F:\LTHDT\Chuong6\bai3\bin\Debug\net6.0\ba3.runtimeconfig.json
+F:\LTHDT\Chuong6\bai3\bin\Debug\net6.0\ba3.dll
+F:\LTHDT\Chuong6\bai3\bin\Debug\net6.0\ba3.pdb
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.csproj.AssemblyReference.cache
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.AssemblyInfoInputs.cache
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.AssemblyInfo.cs
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.csproj.CoreCompileInputs.cache
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.dll
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\refint\ba3.dll
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.pdb
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ba3.genruntimeconfig.cache
+F:\LTHDT\Chuong6\bai3\obj\Debug\net6.0\ref\ba3.dll

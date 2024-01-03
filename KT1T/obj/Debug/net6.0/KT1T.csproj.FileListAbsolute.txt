@@ -1,0 +1,15 @@
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.csproj.AssemblyReference.cache
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.AssemblyInfoInputs.cache
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.AssemblyInfo.cs
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.csproj.CoreCompileInputs.cache
+F:\LTHDT\KT1T\bin\Debug\net6.0\KT1T.exe
+F:\LTHDT\KT1T\bin\Debug\net6.0\KT1T.deps.json
+F:\LTHDT\KT1T\bin\Debug\net6.0\KT1T.runtimeconfig.json
+F:\LTHDT\KT1T\bin\Debug\net6.0\KT1T.dll
+F:\LTHDT\KT1T\bin\Debug\net6.0\KT1T.pdb
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.dll
+F:\LTHDT\KT1T\obj\Debug\net6.0\refint\KT1T.dll
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.pdb
+F:\LTHDT\KT1T\obj\Debug\net6.0\KT1T.genruntimeconfig.cache
+F:\LTHDT\KT1T\obj\Debug\net6.0\ref\KT1T.dll

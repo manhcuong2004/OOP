@@ -1,0 +1,15 @@
+F:\LTHDT\Chuong4\bai4\bin\Debug\net6.0\bai4.exe
+F:\LTHDT\Chuong4\bai4\bin\Debug\net6.0\bai4.deps.json
+F:\LTHDT\Chuong4\bai4\bin\Debug\net6.0\bai4.runtimeconfig.json
+F:\LTHDT\Chuong4\bai4\bin\Debug\net6.0\bai4.dll
+F:\LTHDT\Chuong4\bai4\bin\Debug\net6.0\bai4.pdb
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.csproj.AssemblyReference.cache
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.AssemblyInfoInputs.cache
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.AssemblyInfo.cs
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.csproj.CoreCompileInputs.cache
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.dll
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\refint\bai4.dll
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.pdb
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\bai4.genruntimeconfig.cache
+F:\LTHDT\Chuong4\bai4\obj\Debug\net6.0\ref\bai4.dll

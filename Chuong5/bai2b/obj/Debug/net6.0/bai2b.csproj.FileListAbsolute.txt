@@ -1,0 +1,15 @@
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.csproj.AssemblyReference.cache
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.AssemblyInfoInputs.cache
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.AssemblyInfo.cs
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.csproj.CoreCompileInputs.cache
+F:\LTHDT\Chuong5\bai2b\bin\Debug\net6.0\bai2b.exe
+F:\LTHDT\Chuong5\bai2b\bin\Debug\net6.0\bai2b.deps.json
+F:\LTHDT\Chuong5\bai2b\bin\Debug\net6.0\bai2b.runtimeconfig.json
+F:\LTHDT\Chuong5\bai2b\bin\Debug\net6.0\bai2b.dll
+F:\LTHDT\Chuong5\bai2b\bin\Debug\net6.0\bai2b.pdb
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.dll
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\refint\bai2b.dll
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.pdb
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\bai2b.genruntimeconfig.cache
+F:\LTHDT\Chuong5\bai2b\obj\Debug\net6.0\ref\bai2b.dll

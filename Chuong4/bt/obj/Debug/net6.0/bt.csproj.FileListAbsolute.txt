@@ -1,0 +1,15 @@
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.csproj.AssemblyReference.cache
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.AssemblyInfoInputs.cache
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.AssemblyInfo.cs
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.csproj.CoreCompileInputs.cache
+F:\LTHDT\Chuong4\bt\bin\Debug\net6.0\bt.exe
+F:\LTHDT\Chuong4\bt\bin\Debug\net6.0\bt.deps.json
+F:\LTHDT\Chuong4\bt\bin\Debug\net6.0\bt.runtimeconfig.json
+F:\LTHDT\Chuong4\bt\bin\Debug\net6.0\bt.dll
+F:\LTHDT\Chuong4\bt\bin\Debug\net6.0\bt.pdb
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.dll
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\refint\bt.dll
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.pdb
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\bt.genruntimeconfig.cache
+F:\LTHDT\Chuong4\bt\obj\Debug\net6.0\ref\bt.dll

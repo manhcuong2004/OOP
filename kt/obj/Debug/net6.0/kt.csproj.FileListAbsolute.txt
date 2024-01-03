@@ -1,0 +1,15 @@
+F:\LTHDT\kt\obj\Debug\net6.0\kt.csproj.AssemblyReference.cache
+F:\LTHDT\kt\obj\Debug\net6.0\kt.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTHDT\kt\obj\Debug\net6.0\kt.AssemblyInfoInputs.cache
+F:\LTHDT\kt\obj\Debug\net6.0\kt.AssemblyInfo.cs
+F:\LTHDT\kt\obj\Debug\net6.0\kt.csproj.CoreCompileInputs.cache
+F:\LTHDT\kt\bin\Debug\net6.0\kt.exe
+F:\LTHDT\kt\bin\Debug\net6.0\kt.deps.json
+F:\LTHDT\kt\bin\Debug\net6.0\kt.runtimeconfig.json
+F:\LTHDT\kt\bin\Debug\net6.0\kt.dll
+F:\LTHDT\kt\bin\Debug\net6.0\kt.pdb
+F:\LTHDT\kt\obj\Debug\net6.0\kt.dll
+F:\LTHDT\kt\obj\Debug\net6.0\refint\kt.dll
+F:\LTHDT\kt\obj\Debug\net6.0\kt.pdb
+F:\LTHDT\kt\obj\Debug\net6.0\kt.genruntimeconfig.cache
+F:\LTHDT\kt\obj\Debug\net6.0\ref\kt.dll
